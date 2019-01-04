@@ -15,14 +15,18 @@ The code is implemented in R (v3.4.4) and the following libraries:
 Components of the analysis
 
 - Differential expression
+
 This code uses edgeR was to identify over and under expressed genes.
 
 - Gene ontology analysis and Plot gene ontologies
+
 This code identifies gene ontology terms enriched in the differentially expressed genes and plot the results. It uses the function goana()
 
 - Heatmap
+
 This code uses the package pheatmap to plot selected differentially expressed genes and the gene ontology terms they belong.
 
 - Molecular signature MSigDB
+
 This code uses The Molecular Signatures Database (MSigDB) to identify molecular signatures in the genes differentially expressed.
 

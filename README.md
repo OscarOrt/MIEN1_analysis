@@ -7,12 +7,12 @@ This repository is intended to provide the code used for the bioinformatic analy
 The code is implemented in R (v3.4.4) and the following libraries:
 - edgeR v3.20.9
 - org.Hs.eg.db v3.5.0
-- pheatmap v1.010
+- pheatmap v1.0.10
 - ggplot2 3.0.0
 - dendsort v0.3.3
 - RColorBrewer v1.1-2
 
-#Components of the analysis
+Components of the analysis
 
 - Differential expression
 This code uses edgeR was to identify over and under expressed genes.

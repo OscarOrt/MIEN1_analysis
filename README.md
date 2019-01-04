@@ -1,6 +1,4 @@
-# MIEN1_analysis
-
-Analysis code for the MIEN1 promoter ablation provides new evidence for colorectal cancer genome editing-based therapeutics project
+# MIEN1 analysis
 
 This repository is intended to provide the code used for the bioinformatic analysis for the project MIEN1 promoter ablation provides new evidence for colorectal cancer genome editing-based therapeutics.
 
@@ -13,7 +11,7 @@ The code is implemented in R (v3.4.4) and the following libraries:
 - RColorBrewer v1.1-2
 
 
-Components of the analysis
+## Components of the analysis
 
 - Differential expression:
 This code uses edgeR was to identify over and under expressed genes.

@@ -20,8 +20,8 @@ This code uses edgeR to identify differential expressed genes (See details in me
 This code identifies gene ontology terms enriched in the differentially expressed genes and plot the results. It uses the function goana()
 
 - Heatmap:
-This code uses the package pheatmap to plot selected differentially expressed genes and the gene ontology terms they belong.
+This code uses the package pheatmap to plot selected differentially expressed genes and the gene ontology terms they are related.
 
 - Molecular signature MSigDB:
-This code uses The Molecular Signatures Database (MSigDB) to identify molecular signatures in the genes differentially expressed.
+This code uses The Molecular Signatures Database (MSigDB) to identify molecular signatures in the expression dataset.
 

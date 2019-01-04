@@ -14,7 +14,7 @@ The code is implemented in R (v3.4.4) and the following libraries:
 ## Components of the analysis
 
 - Differential expression:
-This code uses edgeR was to identify over and under expressed genes.
+This code uses edgeR to identify differential expressed genes (See details in methods).
 
 - Gene ontology analysis and Plot gene ontologies:
 This code identifies gene ontology terms enriched in the differentially expressed genes and plot the results. It uses the function goana()
